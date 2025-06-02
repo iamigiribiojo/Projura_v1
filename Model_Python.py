@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 # === CHANGE YOUR PASSWORD HERE ===
-APP_PASSWORD = "Projura2024!"
+APP_PASSWORD = "123"
 # ================================
 
 class NeuralNetwork:
